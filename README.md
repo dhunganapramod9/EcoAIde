@@ -39,7 +39,5 @@ Thank you! Happy hacking
 
 
 
-## License
 
-This project uses the following license: [<license_name>](<link_to_license>).
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/pramod32123/final)
+
